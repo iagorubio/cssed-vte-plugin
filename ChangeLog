@@ -1,0 +1,12 @@
+2004-10-13  michga  <michga@users.sourceforge.net>
+
+	* NEWS, README:
+	Corrected contents
+	
+	* configure.in:
+	Added fr to ALL LINGUAS
+
+2004-10-04  iagorubio  <iagorubio@users.sourceforge.net>
+
+	INITIAL import
+

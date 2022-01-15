@@ -1,0 +1,44 @@
+# French translation of cssed-vte-plugin.
+# Copyright (C) 2004, Iago Rubio
+# This file is distributed under the same license as the cssed package.
+# Michèle Garoche <michele.garoche@easyconnect.fr>, 2004.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: cssed-vte-plugin-0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2005-11-10 11:11+0100\n"
+"PO-Revision-Date: 2004-10-10 22:37+0200\n"
+"Last-Translator: Michèle Garoche <michele.garoche@easyconnect.fr>\n"
+"Language-Team: French <gnomefr@traduc.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/vte.c:83
+msgid "Vte terminal"
+msgstr "Terminal Vte"
+
+#. the plugin name
+#: src/vte.c:84
+msgid "Adds a console to the footer panel"
+msgstr "Ajoute un terminal au panneau inférieur"
+
+#: src/vte.c:206
+msgid "Vte plugin"
+msgstr "Plugin Vte"
+
+#: src/vte.c:209
+msgid "Cannot build plugin's controls"
+msgstr "Impossible de construire les contrôles du plugin"
+
+#: src/vte.c:209
+msgid ""
+"There was an error while loading the plugin\n"
+"It may fail at any point, please unload it"
+msgstr ""
+"Il y a eu une erreur lors du chargement du plugin\n"
+"Il se peut qu'il ne fonctionne pas correctment par la suite, déchargez-le"
+
+#~ msgid "** Vte plugin unloaded\n"
+#~ msgstr "** Plugin Vte déchargé\n"

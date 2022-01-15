@@ -1,0 +1,5 @@
+2004-10-10  Michèle Garoche <michele.garoche@easyconnect.fr>
+
+	* vte.c: 
+	
+	Corrected string terminal
